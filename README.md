@@ -6,7 +6,6 @@
 •	Labor management 
 •	Salary management
 •	Finance management
-•	Managing labor
 •	Account management
 •	Managing purchases 
 •	Built-in inventory management system
