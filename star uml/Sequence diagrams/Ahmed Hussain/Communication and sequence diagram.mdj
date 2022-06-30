@@ -12,15 +12,6 @@
 			"name": "Model",
 			"ownedElements": [
 				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				},
-				{
 					"_type": "UMLActor",
 					"_id": "AAAAAAGBa61NjZD2mTk=",
 					"_parent": {
@@ -2464,9 +2455,9 @@
 													"font": "Arial;13;1",
 													"left": 109,
 													"top": 278,
-													"width": 101.8544921875,
+													"width": 142.314453125,
 													"height": 13,
-													"text": "Lifeline1: Actor1"
+													"text": "Purchase dept.: Actor1"
 												},
 												{
 													"_type": "LabelView",
@@ -2499,7 +2490,7 @@
 											"font": "Arial;13;0",
 											"left": 104,
 											"top": 271,
-											"width": 111.8544921875,
+											"width": 152.314453125,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGBa732ZqHlcFA="
@@ -2518,7 +2509,7 @@
 									"font": "Arial;13;0",
 									"left": 104,
 									"top": 248,
-									"width": 111.8544921875,
+									"width": 152.314453125,
 									"height": 49,
 									"stereotypeDisplay": "icon",
 									"nameCompartment": {
@@ -2849,7 +2840,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 251,
+											"left": 271,
 											"top": 250,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2870,7 +2861,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 251,
+											"left": 271,
 											"top": 235,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2891,7 +2882,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 251,
+											"left": 271,
 											"top": 280,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -2912,7 +2903,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 241,
+											"left": 281,
 											"top": 250,
 											"height": 13,
 											"alpha": 0.5235987755982988,
@@ -2933,7 +2924,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 244,
+											"left": 284,
 											"top": 236,
 											"height": 13,
 											"alpha": 0.7853981633974483,
@@ -2954,7 +2945,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 237,
+											"left": 277,
 											"top": 277,
 											"height": 13,
 											"alpha": -0.5235987755982988,
@@ -3033,7 +3024,7 @@
 										"$ref": "AAAAAAGBa732ZqHjUqs="
 									},
 									"lineStyle": 1,
-									"points": "216:271;287:271",
+									"points": "256:271;287:271",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAGBa8JH7aTRi94="
@@ -3083,7 +3074,7 @@
 												"$ref": "AAAAAAGBa8JH7qTbboc="
 											},
 											"font": "Arial;13;0",
-											"left": 199.315673828125,
+											"left": 219.315673828125,
 											"top": 244,
 											"width": 102.36865234375,
 											"height": 13,
@@ -3102,7 +3093,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 250.5,
+											"left": 270.5,
 											"top": 229,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -3119,7 +3110,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 250.5,
+											"left": 270.5,
 											"top": 244,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -3127,7 +3118,7 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 231,
+									"left": 251,
 									"top": 261,
 									"width": 40,
 									"alpha": 1.5707963267948966,
@@ -4767,7 +4758,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBa73LR6G2TgQ="
 							},
-							"name": "Lifeline1",
+							"name": "Purchase dept.",
 							"represent": {
 								"$ref": "AAAAAAGBa732ZqHhBek="
 							},
