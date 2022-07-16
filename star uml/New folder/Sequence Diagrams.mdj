@@ -680,7 +680,7 @@
 														"$ref": "AAAAAAGBtA8tEM1x7Os="
 													},
 													"edgePosition": 1,
-													"text": "4 : Choose Driver or Vehicle by ID"
+													"text": "4 : Choose Driver  by ID"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -792,7 +792,7 @@
 														"$ref": "AAAAAAGBtBBKhs2H24c="
 													},
 													"edgePosition": 1,
-													"text": "5 : Driver or Vehicle Choosed"
+													"text": "5 : Driver  Chose"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1038,7 +1038,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGBtAkgDcye5/Y="
 									},
-									"name": "Choose Driver or Vehicle by ID",
+									"name": "Choose Driver  by ID",
 									"source": {
 										"$ref": "AAAAAAGBtAlln8yvJGg="
 									},
@@ -1053,7 +1053,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGBtAkgDcye5/Y="
 									},
-									"name": "Driver or Vehicle Choosed",
+									"name": "Driver  Chose",
 									"source": {
 										"$ref": "AAAAAAGBtAruU80J0rs="
 									},
