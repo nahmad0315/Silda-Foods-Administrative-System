@@ -760,7 +760,7 @@
 											"top": 430,
 											"width": 185,
 											"height": 13,
-											"text": "View Vehicle & Drivers Details"
+											"text": "View Drivers Details"
 										},
 										{
 											"_type": "LabelView",
@@ -793,7 +793,7 @@
 									"font": "Arial;13;0",
 									"left": 1016.5,
 									"top": 423,
-									"width": 195.47216796875,
+									"width": 195,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAUpNNy0lAWY0="
@@ -17089,7 +17089,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAGByO+bY9stsWg="
 							},
-							"showEndOrder": "hide",
 							"tailRoleNameLabel": {
 								"$ref": "AAAAAAGByO+bY9su9NI="
 							},
@@ -17558,7 +17557,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAGByPCC1QewQYs="
 							},
-							"showEndOrder": "hide",
 							"tailRoleNameLabel": {
 								"$ref": "AAAAAAGByPCC1Qexig0="
 							},
@@ -17730,7 +17728,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "View Vehicle & Drivers Details",
+					"name": "View Drivers Details",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",
