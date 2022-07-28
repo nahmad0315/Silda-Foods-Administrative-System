@@ -101,10 +101,7 @@ public class View_Vehicles_Drivers_Detail extends javax.swing.JFrame {
 
         table.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null}
+
             },
             new String [] {
                 "ID", "Name", "Contact", "Address", "HireDate", "Salary"
@@ -251,7 +248,7 @@ public class View_Vehicles_Drivers_Detail extends javax.swing.JFrame {
         try {
             create_connection();
             Statement stmt = conn.createStatement();
-            String sql = "insert into Driver_Details(Name, Contact, Address, HireDate, Salary ) values ('" + Name.getText() + "','" + Contact.getText() + "','" + Address.getText() + "','" + HireDate1.getText() + "'," + Salary.getText() + ")";
+            String sql = "insert into Driver_Details(Name, Contact, Address, HireDate, Salary ) values ('" + Name.getText() + "','" + Contact.getText() + "','" + Address.getText() + "','" + HireDate1.getText() + "','" + Salary.getText() + "');";
             stmt.executeUpdate(sql);
             conn.close();
             setTableFromDB();
